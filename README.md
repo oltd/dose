@@ -65,7 +65,7 @@ This theme uses no special font, just the browsers default monospace font. Yes, 
 
 #### Darkmode
 
-This theme supports dark and light mode. Currently this will be only switched based on the users preffered system theme. But a manual switch will follow in the future in the footer (see the todo).
+This theme supports dark and light mode. Currently this will be only switched based on the users preferred system theme. But a manual switch will follow in the future in the footer (see the todo).
 
 | light | dark |
 |-|-|
@@ -106,4 +106,4 @@ $separator-decoration: "//////";
 
 ![GitHub](https://img.shields.io/github/license/oltdaniel/dose)
 
-This project was created by [Daniel Oltmanns](https://github.com/oltdaniel) and has been imporved by these [contributors](https://github.com/oltdaniel/dose/graphs/contributors).
+This project was created by [Daniel Oltmanns](https://github.com/oltdaniel) and has been improved by these [contributors](https://github.com/oltdaniel/dose/graphs/contributors).
