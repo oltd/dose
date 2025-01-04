@@ -1,0 +1,10 @@
+version: 2
+updates:
+  # Enable version updates for GitHub action workflows
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    # Check for updates to GitHub Actions once per week
+    schedule:
+      interval: "daily"
+    # Limit the number of open pull requests to 10
+    open-pull-requests-limit: 10
